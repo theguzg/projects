@@ -1,0 +1,9 @@
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\sistemcoordonate\sistemcoordonate\bin\Debug\sistemcoordonate.exe.config
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\sistemcoordonate\sistemcoordonate\bin\Debug\sistemcoordonate.exe
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\sistemcoordonate\sistemcoordonate\bin\Debug\sistemcoordonate.pdb
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\sistemcoordonate\sistemcoordonate\obj\Debug\sistemcoordonate.Form1.resources
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\sistemcoordonate\sistemcoordonate\obj\Debug\sistemcoordonate.Properties.Resources.resources
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\sistemcoordonate\sistemcoordonate\obj\Debug\sistemcoordonate.csproj.GenerateResource.Cache
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\sistemcoordonate\sistemcoordonate\obj\Debug\sistemcoordonate.csproj.CoreCompileInputs.cache
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\sistemcoordonate\sistemcoordonate\obj\Debug\sistemcoordonate.exe
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\sistemcoordonate\sistemcoordonate\obj\Debug\sistemcoordonate.pdb
