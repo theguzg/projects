@@ -1,0 +1,10 @@
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\X si O.csprojResolveAssemblyReference.cache
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\X si O.csproj.GenerateResource.Cache
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\X si O.csproj.CoreCompileInputs.cache
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Gutza\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
