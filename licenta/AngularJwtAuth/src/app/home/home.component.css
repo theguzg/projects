@@ -1,0 +1,17 @@
+:host {
+    display: block;
+    height: 100%;
+}
+
+.mat-slide-toggle {
+    margin-left: 510px;
+    margin-top: 50px;
+    position: absolute;
+}
+
+.bodyPartsButton {
+    position: absolute;
+    margin-left: 482px;
+    z-index: 5;
+}
+

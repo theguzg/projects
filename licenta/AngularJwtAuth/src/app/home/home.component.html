@@ -1,0 +1,27 @@
+<div *ngIf="info.token; else loggedOut">
+  <!-- <img class="body" src="assets/human-body/organs/body.svg" /> -->
+
+
+
+  <div class="container" style="padding-top: 20px;">
+    <mat-slide-toggle (click)="toggleDisplay()"></mat-slide-toggle>
+    <button mat-raised-button class="bodyPartsButton" type="button" mat-button (click)="goToHumanBodyPartsPage()">
+      Body-parts
+    </button>
+    <app-human-body></app-human-body>
+  </div>
+
+  <!-- <h5 class="text-primary">Your Information</h5>
+  <p>
+    <strong>Username:</strong> {{info.username}}<br/>
+    <strong>Roles:</strong> {{info.authorities}}<br />
+    <strong>Token:</strong> {{info.token}}.
+  </p> -->
+  <!-- <button class="btn btn-secondary" (click)="logout()">Logout</button> -->
+</div>
+
+<ng-template #loggedOut>
+  <div class="container" style="padding-top: 20px;">
+  Please login.
+  </div>
+</ng-template>

@@ -1,0 +1,21 @@
+:host {
+    position: absolute;
+    display: block;
+    /* width: 100%;
+    height: 100%; */
+    width: 1px;
+    height: 1px;
+}
+
+.smallIntestinesSvg {
+    pointer-events: none;
+}
+
+#SmallIntestinesOverlay {
+    fill: rgba(255, 255, 255, 0);
+    pointer-events: visibleFill;
+}
+
+.smallIntestinesTooltip {
+    z-index: 1;
+}

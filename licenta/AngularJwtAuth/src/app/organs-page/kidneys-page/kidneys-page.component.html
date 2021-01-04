@@ -1,0 +1,31 @@
+<div class="container" style="padding-top: 20px">
+  <mat-card class="kidneys-card">
+    <img mat-card-image src="/assets/human-body/organs/kidneys.svg" width="400px" height="400px">
+  </mat-card>
+</div>
+
+<div style="width: 50px; height: 50px; padding-top: 20px; position: absolute;">
+ <div id="mySidenav" class="sidenav">
+    <a id="disease" (click)="onDiseaseClick()" style="cursor: pointer;">Diseases</a>
+    <a id="treatment" (click)="onTreatmentClick()" style="cursor: pointer;">Treatment</a>
+    <a id="prevention" (click)="onPreventionClick()" style="cursor: pointer;">Prevention</a>
+  </div>
+</div>
+<div  style="padding-top: 20px; position: absolute;">
+  <div *ngIf="selectedDisease">
+    <ul *ngFor="let kidney of kidneys">
+      <li>{{kidney.name_disease}}</li>
+      <li>{{kidney.description_disease}}</li>
+    </ul>
+  </div>
+  <div *ngIf="selectedTreatment">
+    <ul *ngFor="let kidney of kidneys">
+      <li>{{kidney.treatment}}</li>
+    </ul>
+  </div>
+  <div *ngIf="selectedPrevention">
+    <ul *ngFor="let kidney of kidneys">
+      <li>{{kidney.prevention}}</li>
+    </ul>
+  </div>
+</div>
