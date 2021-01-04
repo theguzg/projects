@@ -1,0 +1,105 @@
+.femaleBody {
+    position: absolute;
+    display: block;
+    pointer-events: none;
+}
+
+#Chest_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Neck_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Head_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Left_Arm_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Right_Arm_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Left_Forearm_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Right_Forearm_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Left_Hand_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Right_Hand_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Abdomen_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Vagina_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Left_Lower_Limb_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Left_Leg_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Right_Lower_Limb_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Right_Leg_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Left_Foot_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Right_Foot_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Left_Shoulder_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Right_Shoulder_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
+
+#Breasts_Female {
+    pointer-events: visibleFill;
+    fill: rgba(255, 255, 255, 0);
+}
